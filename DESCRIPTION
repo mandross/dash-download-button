@@ -1,0 +1,15 @@
+Package: downloadButton
+Title: Button for downloading a html div to the disk.
+Version: 0.0.1
+Description: Button for downloading a html div to the disk.
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/mandross/download-button
+BugReports: https://github.com/mandross/download-button/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
+Author: mandross [aut]
+Maintainer: mandross <kuba@slashdev.team>

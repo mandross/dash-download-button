@@ -1,0 +1,7 @@
+include download_button/download_button.min.js
+include download_button/download_button.min.js.map
+include download_button/metadata.json
+include download_button/package-info.json
+include README.md
+include LICENSE
+include package.json
